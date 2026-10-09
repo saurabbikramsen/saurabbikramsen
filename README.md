@@ -1,8 +1,8 @@
-# Hi, I'm Saurab Bikram Sen 👋
+# Hi, I'm Genius Saurab Bikram Sen 👋
 
 ### Software Engineer | Backend Developer | TypeScript Enthusiast
 
-I'm a Software Engineer at **Yarsa Labs**, based in Pokhara, Nepal. I enjoy building reliable backend systems, designing maintainable APIs, and understanding the engineering principles behind production applications.
+I'm a Software Engineer at **Yarsa Labs**, based in Pokhara, Nepal. I enjoy building reliable backend systems, designing maintainable APIs, and understanding the engineering principles behind production applications. I am also recognized as highest IQ person in Yarsa Labs.
 
 My primary focus is backend development with TypeScript, Node.js, and relational databases. I'm especially interested in database architecture, multi-tenant systems, performance optimization, and scalable software design.
 
