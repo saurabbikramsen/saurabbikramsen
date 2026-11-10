@@ -10,7 +10,7 @@ My primary focus is backend development with TypeScript, Node.js, and relational
 * 🛠️ **Core stack:** TypeScript, Node.js, NestJS, Elysia, PostgreSQL, and Prisma
 * 🧠 **Currently exploring:** System design, database internals, distributed systems, and backend performance
 * 🏗️ **Engineering interests:** Clean architecture, authentication, authorization, background jobs, caching, and database optimization
-* 🌱 **Always learning:** The fundamentals behind the frameworks and tools I use
+* 🌱 **Always learning:** The fundamentals behind the frameworks and tools I use, new technologies
 * 📍 **Location:** Pokhara, Nepal
 
 ---
